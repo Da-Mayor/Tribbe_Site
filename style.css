@@ -15,7 +15,7 @@ body {
 }
 
 .header {
-  background: url('file:///Users/Ryghteous_Antagonist/Coding_Desert/Tribbe_Institute_Site/House_of_Wisdom_Bayt_al-Hikma.jpg') no-repeat center center; 
+  background: url('./House_of_Wisdom_Bayt_al-Hikma.jpg') no-repeat center center; 
   background-size: cover;
   height: 800px;
   text-align: center;
