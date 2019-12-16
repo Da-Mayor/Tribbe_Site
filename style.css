@@ -160,7 +160,18 @@ body {
   padding: 0 20px 5px 0;
   color: #fff;
   font-family: 'Roboto';
+  width: 210px;
+}
 
+#signup_submit {
+  background-color: transparent;
+  border: none;
+  border-bottom: 1px solid #ddab3a;
+  font-size: 14px;
+  color: white;
+  padding: 0 0 5px 0;
+  width: 60px;
+  font-family: 'Roboto';
 }
 @media (max-width: 500px) {
   .header h1 {
